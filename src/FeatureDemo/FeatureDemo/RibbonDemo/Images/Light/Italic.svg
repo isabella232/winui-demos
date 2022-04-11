@@ -1,8 +1,1 @@
-<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M10 5H17V6H14.1L11.1 18H14V19H7V18H9.9L12.9 6H10V5Z" fill="url(#paint0_linear)"/>
-<defs>
-<linearGradient id="paint0_linear" x1="7" y1="5" x2="17" y2="5" gradientUnits="userSpaceOnUse">
-<stop/>
-</linearGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><path fill="url(#paint0_linear)" d="M10 5H17V6H14.1L11.1 18H14V19H7V18H9.9L12.9 6H10V5Z"/><defs><linearGradient id="paint0_linear" x1="7" x2="17" y1="5" y2="5" gradientUnits="userSpaceOnUse"><stop/></linearGradient></defs></svg>
